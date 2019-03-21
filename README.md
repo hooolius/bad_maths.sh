@@ -1,1 +1,1 @@
-# bad_maths.hs
+# bad_maths.sh
